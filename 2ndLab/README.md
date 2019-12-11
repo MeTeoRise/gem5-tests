@@ -51,3 +51,6 @@ icache overall miss latency μικροτερο κατα 1/1.29 .Τωρα ,στα
 
 Πηγές:
 https://en.wikipedia.org/wiki/Clock_rate
+
+
+__By Panos Petridis & Theofilos Panagiotou__
