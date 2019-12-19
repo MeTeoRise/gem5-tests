@@ -80,8 +80,8 @@ power.Για την l2 μεγάλη επιρροή εχει παλι το cache 
 
 Για το specjeng  ολα τα αποτελεσματα core power,area και l2 power ,area  αυξάνονται  μόνο με αύξηση της cache line.
 
-
-
+3)Βλέπουμε πως οσο κατεβαινει το cpi το PDAP ανεβαινει με εκθετικούς ρυθμους. Μετά απο την ελαχιστοποιηση του cpi οσο και να αυξανουμε το μεγεθος του κυκλώματος, το cpi μενει πανω κατω ιδιο. Σε αντιθεση το PDAP παει στα υψη, οποτε η βελτιστη λυση ειναι η επιλογη του μικροτερου PDAP για παρόμοιο cpi. Απ την συνάρτηση κοστους φαινεται οτι αφου και το Cpi ειναι σε μορφη γινομένου θα εχουμε αναλογικες τιμες και στις δυο περιπτωσεις και αφου το Total Area και το Total Power ειναι αναλογα της ποσης Cache L1 και L2 υπαρχει, άρα οι αναλογιες των τιμών Cost και PDAP ειναι αναλογες.
+ 
 http://www.eecs.harvard.edu/~dbrooks/cs246/cs246-lecture2.pdf
 https://www.sciencedirect.com/topics/computer-science/dynamic-power-consumption
 https://vlsi.pro/power-dissipation-leakage-power/
